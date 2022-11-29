@@ -1,9 +1,9 @@
 global.you = ['62857973750143'] 
 //Developer Bot
 global.gc = 'https://chat.whatsapp.com/GduQSOuZ6p41HH8uQ4tFJD'
-global.rowner = ['6285797375014'] // Real Owner Bot
+global.rowner = ['62857973750143'] // Real Owner Bot
 global.owner = ['6285797375014'] // Owner Bot
-global.police = ['6285797375014'] // Police Bot
+global.police = ['62857973750143'] // Police Bot
 global.mods = ['6285797375014']  // Want some help?
 global.prems = ['6285797375014'] // Premium user has unlimited limit
 global.fotonya1 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini kalo mau di ganti silahkan ganti aja
@@ -13,7 +13,7 @@ global.fotonya4 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga
 global.fotonya5 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini juga ganti
 global.fotonya6 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini ganti pakai foto sosialmedia mu
 global.fotonya7 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg'
-global.instagram = 'https://instagram.com/Jarotr_'
+global.instagram = 'https://instagram.com/znxphoenix''
 
 global.helper = ['6285797375014']
 global.APIs = { // API Prefix

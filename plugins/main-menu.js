@@ -63,7 +63,7 @@ const defaultMenu = {
   header: '╔═❖〔 %category 〕❖════╗\n┃',
   body: '┃➺ %cmd %islimit %isPremium',
   footer: '┃\n╚══════════❖\n', 
-  after: `*Made by ♡*
+  after: `*Made by k♡*
 *%npmname* | %version
 ${'```%npmdesc```'}
 `,
